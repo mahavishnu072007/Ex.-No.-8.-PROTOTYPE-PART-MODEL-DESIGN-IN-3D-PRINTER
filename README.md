@@ -45,9 +45,7 @@
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
 ## Output:
-
 ![WhatsApp Image 2026-03-10 at 10 25 13](https://github.com/user-attachments/assets/8158cda1-eca0-4a1b-b382-c390d57ef9e5)
-
 
 ### Name:MAHA VISHNU S
 ### Register Number:212225220059
